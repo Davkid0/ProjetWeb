@@ -1,0 +1,53 @@
+body
+{
+    background-color: rgb(254 215 170)   
+}
+h1
+{
+    display: center;
+    color: rgb(197, 79, 191);
+    font-size: 35px;   
+    text-align: center;
+    padding-top: 75px;
+    font-family: serif;
+    
+}
+
+input
+{
+    font-size:30px;
+    margin-left:40%;
+    font-family: serif;
+    padding-left: 30px;
+    display: flex;
+    margin: auto;
+    border: 3px solid rgb(0, 0, 0);
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+table {
+border-radius: 20px;
+border: 8px double #cccccc;
+color: black;
+text-align: center;
+font-size: 14px;
+padding: 30px;
+width: 250px;
+margin: 10px;
+background-color: rgb(255, 253, 253);
+margin-left:42%;
+font-family: serif;
+white-space: nowrap;
+}
+
+strong
+{
+    display: center;
+    color: red;
+    font-size: 35px;   
+    text-align: center;
+    padding-top: 75px;
+    font-family: serif;
+    margin-left: 32%;
+}
